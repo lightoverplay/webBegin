@@ -1,0 +1,1 @@
+các file chức năng liên quan đến db đều để trong fd database
